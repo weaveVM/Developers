@@ -17,22 +17,17 @@ You'll need to pass WeaveVM-specific parameters and obtain tWVM tokens.
 
 ### Get tWVM Tokens
 
-To get alphanet tWVM tokens for funding `ADMIN`, `SEQUENCER`, and other accounts (wallets addresses), use our faucet:  
+To get alphanet tWVM tokens for funding `ADMIN`, `SEQUENCER`, and other accounts (wallets addresses): 
 
-- [https://wvm.dev/faucet](https://wvm.dev/faucet)  
+- WeaveVM Faucet: https://wvm.dev/faucet
 - You can also request them in our Discord community:  
 [https://dsc.gg/wvm](https://dsc.gg/wvm)
 
 ## Guide
 
-You can find an example of assets used to run `op-node`, `op-geth`, and other executables in our Optimism monorepo fork:  
-[https://github.com/weaveVM/optimism/tree/deploy-op-stack-rollup-on-wvm-l1](https://github.com/weaveVM/optimism/tree/deploy-op-stack-rollup-on-wvm-l1)  
+You can find an example of assets used to run `op-node`, `op-geth`, and other executables in our [Optimism monorepo fork](https://github.com/weaveVM/optimism/tree/deploy-op-stack-rollup-on-wvm-l1) (Branch: `deploy-op-stack-rollup-on-wvm-l1`).
 
-#### ~> Branch: `deploy-op-stack-rollup-on-wvm-l1`
-
-If you encounter any WeaveVM chain-specific issues, such as unavailable or unsupported RPC calls, please create an issue in this repository.
-
-In general, follow the documentation and tutorials from Optimism.
+If you encounter any WeaveVM chain-specific issues, such as unavailable or unsupported RPC calls, please create an issue in this repository. In general, follow the documentation and tutorials from Optimism.
 
 ### Core Tutorial:
 
